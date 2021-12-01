@@ -8,3 +8,5 @@
 - 📫 我的书籍：第一本Spring Cloud中文书籍[《Spring Cloud微服务实战》](https://item.jd.com/12172344.html)
 - 🤔 提问交流：[知乎@程序猿DD](https://www.zhihu.com/people/di-yong-chao-86)
 - 💬 我的微信：zyc_enjoy
+
+[![程序猿DD](https://github-readme-stats.vercel.app/api?username=dyc87112)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=dracula)
