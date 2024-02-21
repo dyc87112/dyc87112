@@ -11,8 +11,8 @@
   - [Spring Cloud教程](https://www.didispace.com/spring-cloud/)
 - 🔧 软件工具：
   - [OpenWrite](https://openwrite.cn/)：一键分发你的文章到技术社区
-  - [TranDuck](https://transduck.com/)：免费视频发布者的视频翻译软件
-  - [YouTube中文配音](https://youtube-dubbing.com/)：面向观众的一键翻译YouTube视频并配音  
+  - [TransDuck](https://transduck.com/)：面向视频发布者的一键视频翻译软件
+  - [YouTube中文配音](https://youtube-dubbing.com/)：面向观众的在线视频翻译软件（目前支持：YouTube、Udemy）
 - 📫 我的书籍：
   - 第一本Spring Cloud中文书籍[《Spring Cloud微服务实战》](https://item.jd.com/12172344.html)
 - 🤔 我的知乎：[知乎@程序猿DD](https://www.zhihu.com/people/di-yong-chao-86)
