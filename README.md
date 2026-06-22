@@ -7,6 +7,8 @@
   - [TransDuck](https://transduck.cc/)：AI配音、声音克隆、有声书、视频翻译、人声分离、语音转录
   - [UnifiedTTS](https://unifiedtts.com)：统一TTS接口，一个接口实现多个文本转语音服务商
   - [YouTube中文配音](https://youtube-dubbing.com/)：面向观众的在线视频翻译浏览器插件
+  - [SoloEnt](https://soloent.ai/)：基于 VSCode 构建的小说、剧本等长篇内容写作工具
+  - [灵蟹创作](https://soloent.cn/)：SoloEnt中国版
 - 📖 原创教程：
   - [程序员安装大全](https://www.didispace.com/installation-guide/)
   - [Java新特性学习](https://www.didispace.com/java-features/)
